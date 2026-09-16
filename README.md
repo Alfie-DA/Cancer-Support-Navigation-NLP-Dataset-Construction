@@ -88,6 +88,8 @@ The results show that high semantic-similarity scores still require human review
 ```text
 .
 ├── CSN_Employer_Project.ipynb       # Main scraping, NLP, and EDA workflow
+├── reports/
+│   └── CSN_Patient_Navigation_Project_Report.pdf
 ├── outputs/
 │   └── Cancer_Navigation_Dataset.xlsx
 ├── visualizations/
